@@ -1,0 +1,6 @@
+@SegRedes.JWT.Identidade_HostAddress = http://localhost:5006
+
+GET {{SegRedes.JWT.Identidade_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
